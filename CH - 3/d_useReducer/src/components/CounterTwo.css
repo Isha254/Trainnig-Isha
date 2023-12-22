@@ -1,0 +1,58 @@
+* {
+  background-color: rgb(91, 155, 155);
+  padding: 20px;
+  text-align: center;
+}
+
+div {
+  background-color: bisque;
+  /* padding-top: 30px; */
+  padding-bottom: 10px;
+  padding-top: 10px;
+  border-radius: 30px;
+}
+
+button {
+  background-color: rgb(131, 103, 69);
+  border: none;
+  border-radius: 4px;
+}
+
+.increment {
+  background-color: rgb(115, 188, 135);
+  margin-right: 20px;
+}
+
+.decrement {
+  background-color: rgb(188, 138, 111);
+  margin-right: 20px;
+
+}
+
+.increment5{
+  background-color: rgb(115, 188, 135);
+  margin-right: 20px;
+
+}
+
+.decrement5{
+  background-color: rgb(188, 138, 111);
+
+}
+
+.reset{
+  background: none;
+
+}
+
+i{
+    /* background: none; */
+    height: 17px;
+    width: 10px;
+    background-color: rgb(182, 144, 186);
+    border-radius: 4px;
+}
+
+.count{
+    font-size: 25px;
+}
