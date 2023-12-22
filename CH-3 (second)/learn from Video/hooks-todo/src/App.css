@@ -1,0 +1,52 @@
+.app {
+  background: #7d9baf;
+  padding: 30px;
+  height: 100vp;
+}
+
+.todo-list {
+  background: #e8e8e8;
+  border-radius: 4px;
+  padding: 5px;
+  max-width: 400px;
+}
+
+.todo {
+  background: #fff;
+  /* box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.15); */
+  box-shadow: 1px 1px 1px #00000026;
+  padding: 3px 10px;
+  font-size: 12px;
+  margin-bottom: 6px;
+  border-radius: 3px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.input {
+  width: 100%;
+  box-sizing: border-box;
+  border: 0;
+  border-radius: 4px;
+  box-shadow: none;
+  padding: 1rem;
+  margin-bottom: 5px;
+  height: 2.25em;
+}
+
+.completebtn {
+  border: none;
+  margin-right: 4px;
+  background: #86a0b1;
+  color: #d7dde1;
+  border-radius: 3px;
+
+}
+
+.removebtn {
+  border: none;
+  background: rgb(202, 83, 83);
+  color: #d7dde1;
+  border-radius: 3px;
+}
