@@ -1,0 +1,85 @@
+*{
+    background-color: rgb(233, 233, 141);
+}
+
+form{
+    background-color: white;
+    margin-left: 400px;
+    margin-right: 400px;
+
+}
+
+p{
+    background-color: rgb(33, 82, 120);
+    color: white;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 50px;
+}
+
+
+.username, .email, .password{
+    background-color: white;
+    text-align: center;
+}
+
+label{
+    background-color: white;
+    color: rgb(33, 82, 120);
+}
+
+input{
+    background-color: rgb(78, 122, 156);
+    border: none;
+    border-radius: 4px;
+}
+
+
+.submit{
+    text-align: center;
+    background-color: white;
+    padding-bottom: 30px;
+}
+button{
+    border: none;
+    background-color: rgb(33, 82, 120);
+    border-radius: 4px;
+    height: 30px;
+    color: white;
+}
+/* 
+
+h1{
+    text-align: center;
+    color: white;
+}
+
+form{
+text-align: center;
+background-color: rgb(21, 83, 83);
+border-radius: 10px;
+margin-left: 600px;
+margin-right: 600px;
+padding-top: 15px;
+padding-bottom: 15px;
+margin-top: 20px;
+}
+
+label{
+    color: white;
+}
+
+button{
+    background-color: rgb(9, 46, 46);
+    border: none;
+    color: white;
+    border-radius: 4px;
+}
+
+input{
+    background-color:  rgb(112, 138, 138);
+    border: none;
+    border-radius: 2px;
+}
+ */

@@ -1,0 +1,40 @@
+
+p{
+    background-color: rgb(181, 157, 157);
+    padding: 15px;
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 15px;
+}
+
+.container{
+    background-color: rgb(207, 186, 186);
+    border-radius: 15px;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-left: 60px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+
+.age{
+    margin-top: 100px;
+
+    margin-bottom: 10px;
+}
+
+.submit{
+    border: none;
+    border-radius: 3px;
+    margin-left: 10px;
+    margin-top: 10px;
+    background-color: rgb(181, 157, 157);
+    font-size: 20px;
+}
+input{
+    background-color: rgb(181, 157, 157);
+    border: none;
+    border-radius: 2px;
+}
